@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: sans-serif;
+    background-image: url("../../images/background.jpg");
+    background-position: center;
+    background-position-y: 5%;
+    background-size: cover;
+}
+
+li {
+    list-style: none;
+}
